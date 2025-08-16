@@ -3,7 +3,6 @@
 ![Medicare Part D Analysis](https://img.shields.io/badge/Medicare-Part%20D%20Analysis-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Ready-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)
 
 ## Project Overview
 
@@ -203,17 +202,6 @@ SAVINGS_THRESHOLD = 0.1  # Minimum 10% savings to include
 ```
 CMS API → Data Extraction → Data Cleaning → Drug Classification → 
 Cost Analysis → Savings Calculation → CSV Export → Power BI Import
-```
-
-### File Structure
-```
-medicare-generic-vs-brand-analysis/
-├── generate_medicare_datasets.py    # Main analysis script
-├── README.md                       # This documentation
-├── requirements.txt                # Python dependencies
-├── .gitignore                     # Git ignore rules
-└── docs/
-    └── powerbi_setup_guide.md     # Dashboard creation guide
 ```
 
 ---
