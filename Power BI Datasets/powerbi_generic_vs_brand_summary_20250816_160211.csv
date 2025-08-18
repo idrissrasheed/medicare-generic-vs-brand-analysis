@@ -1,0 +1,3 @@
+drug_type,drug_count,percentage_of_drugs,total_spending,total_claims,total_beneficiaries,avg_cost_per_claim,avg_cost_per_unit,percentage_of_spending
+Brand,9485,66.29,500182808153.5985,1433665398,498048328.0,2937.428263258128,426.6518046471007,90.64
+Generic,4824,33.71,51666232948.14996,1801607502,568002987.0,568.5899645600398,29.17386624381683,9.36
