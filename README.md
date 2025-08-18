@@ -2,8 +2,8 @@
 
 ![Medicare Part D Analysis](https://img.shields.io/badge/Medicare-Part%20D%20Analysis-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-Ready-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-blue?style=for-the-badge&logo=powerbi&logoColor=black)
 
 
 # Medicare Part D - Generic vs Brand Name Savings Analysis
